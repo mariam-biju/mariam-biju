@@ -27,14 +27,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
-## 🎯 Play My Mini Game
-
-> Guess the word before you run out of guesses!
-
-[![Guess the Word Game](https://img.shields.io/badge/Play-Guess%20the%20Word-blueviolet?style=for-the-badge&logo=github)](https://mariam-biju.github.io/guess-the-word-game/)
-
----
-
 
 ### 📊 GitHub Stats
 
