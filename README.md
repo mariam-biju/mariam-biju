@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 👀 I’m interested in **Artificial Intelligence** and **Machine Learning**
-- 🎓 Currently pursuing **BTech in Artificial Intelligence and Machine Learning**
+- 🎓 **BTech in Artificial Intelligence and Machine Learning** Graduate
 - 🛠️ I love building **intelligent systems**, **chatbots**, and **beautiful UIs**
 - 💌 Reach out to collaborate or connect: `mariambiju12@gmail.com`
 
