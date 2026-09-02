@@ -37,11 +37,6 @@
 
 ---
 
-### 🧩 Fun Fact
-
-> I enjoy solving real-world problems with code and love blending creativity with logic 🌈💻
-
----
 
 <!---
 mariam-biju/mariam-biju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
