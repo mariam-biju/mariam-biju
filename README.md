@@ -17,14 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-biju&show_icons=true&theme=calm" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-biju&layout=compact&theme=calm" width="45%" />
-</p>
-
----
 
 
 <!---
